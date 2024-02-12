@@ -1,14 +1,11 @@
----
-layout: page
-title: Advanced
-description: >
-  This chapter covers advanced topics, such as offline support and custom JS builds. Codings skills are recommended.
-hide_description: true
++++
+title = "Advanced"
+description = "This chapter covers advanced topics, such as offline support and custom JS builds. Codings skills are recommended."
 draft = false
 weight = 20
 sort_by = "weight"
 template = "docs/page.html
----
++++
 
 This chapter covers advanced topics, such as offline support and custom JS builds. Codings skills are recommended.
 
