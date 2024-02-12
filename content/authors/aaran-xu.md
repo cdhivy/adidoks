@@ -1,11 +1,11 @@
 +++
-title = "Aaran Xu"
-description = "Creator of AdiDoks."
+title = "Jas"
+description = "Creator of KD."
 date = 2021-04-01T08:50:45+00:00
 updated = 2021-04-01T08:50:45+00:00
 draft = false
 +++
 
-Creator of **AdiDoks**.
+Creator of **KD**.
 
-[@aaranxu](https://github.com/aaranxu)
+[@Jas](https://kd.ms)
