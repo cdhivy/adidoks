@@ -119,7 +119,7 @@ weight = 20
 
 # Footer contents
 [extra.footer]
-info = 'Design with <svg class="icon is-small text-red-500 animated infinite pulse"><use xlink:href="#icon-heart"></use></svg> by <a href="https://kd.ms" title="Owner.">@KD</a>'
+info = 'Design with 💕 by <a href="https://kd.ms" title="KD.">@KD</a>'
 
 [[extra.footer.nav]]
 name = "Privacy"
