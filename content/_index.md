@@ -4,7 +4,7 @@ title = "Modern Documentation Theme"
 
 # The homepage contents
 [extra]
-lead = '<b>KD</b> is a modern documentation site, which is a part of the modern tech <a href="https://github.com/h-enk/">Doks</a> for Zola.'
+lead = '<b>KD</b> is a modern documentation site, which is a part of the modern tech Docs.'
 url = "/docs/getting-started/introduction/"
 url_button = "Get started"
 
