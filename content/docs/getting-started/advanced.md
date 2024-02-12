@@ -1,6 +1,8 @@
 +++
 title = "Advanced"
 description = "This chapter covers advanced topics, such as offline support and custom JS builds. Codings skills are recommended."
+date = 2021-05-01T08:20:00+00:00
+updated = 2024-02-12T08:20:00+00:00
 draft = false
 weight = 20
 sort_by = "weight"
