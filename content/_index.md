@@ -1,5 +1,5 @@
 +++
-title = "Modern Documentation Theme"
+title = "Modern Documentation Site"
 
 
 # The homepage contents
