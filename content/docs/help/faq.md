@@ -14,11 +14,9 @@ toc = true
 top = false
 +++
 
-## What is the AdiDoks?
+## What is the KD?
 
-AdiDoks is a Zola theme for Documentation's sites, ported by the Hugo Theme
-[Doks](https://getdoks.org), which is a pretty nice theme. Thanks a lot to 
-[*h-enk*](https://github.com/h-enk), the creator of the [Doks](https://getdoks.org).
+KD is dedicated to creativity a publishes the latest tech news stories, entertainment and science coverage, expert product reviews, and the best tech deals.
 
 ## Keyboard shortcuts for search?
 
@@ -29,11 +27,11 @@ AdiDoks is a Zola theme for Documentation's sites, ported by the Hugo Theme
 
 ## Other documentation?
 
-- [Netlify](https://docs.netlify.com/)
-- [Zola](https://www.getzola.org/documentation/getting-started/overview/)
+- [Blog](https://blog.kd.ms/)
+- [News](https://www.kd.ms/documentation/getting-started/overview/)
 
 ## Contact the creator?
 
-Send *Aaran Xu* an E-mail:
+Send *KD* an E-mail:
 
-- <aaranxu@outlook.com>
+- <info@kd.ms>
