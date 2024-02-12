@@ -28,12 +28,11 @@
     <section class="section container-fluid mt-n3 pb-3">
       <div class="row justify-content-center">
         <div class="col-lg-12 text-center">
-          <h1 class="mt-0">{{ section.title | default(value="Modern Documentation Theme") }}</h1>
+          <h1 class="mt-0">{{ section.title | default(value="Modern Documentation Site") }}</h1>
         </div>
         <div class="col-lg-9 col-xl-8 text-center">
           <p class="lead">{{ section.extra.lead | default(value="Please start setting config.toml and adding your content.") | safe }}</p>
           <a class="btn btn-primary btn-lg px-4 mb-2" href="{{ get_url(path=section.extra.url | default(value="/")) | safe }}" role="button">{{ section.extra.url_button | default(value="Get started") }}</a>
-          <p class="meta">{{ section.extra.repo_license | default(value="")}} <a href="{{ section.extra.repo_url | default(value="https://kd.ms") | safe }}">{{ section.extra.repo_version | default(value="") }}</a></p>
         </div>
       </div>
     </section>
